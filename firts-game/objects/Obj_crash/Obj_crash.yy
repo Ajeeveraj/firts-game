@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_crash",
+  "%Name":"obj_crash",
   "eventList":[],
   "managed":true,
-  "name":"Obj_crash",
+  "name":"obj_crash",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
